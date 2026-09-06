@@ -1,3 +1,5 @@
+<div align="center">
+
 _,.-° 🤍 welcome to cam's space 🤍 °-.,_
 
 ✨ *a soft little corner where code meets curiosity* ✨
@@ -6,13 +8,13 @@ _,.-° 🤍 welcome to cam's space 🤍 °-.,_
 
 ### ·.° ʚ about me & this journey ɞ °.·
 
-🌸 **hello!** i'm documenting my path of learning new, beautiful things guided purely by curiosity. 
-🌸 here you'll find a blend of my academic adventures (from equations to logic) and little personal tech projects crafted with care. 
+🌸 **hello!** i'm documenting my path of learning new, beautiful things guided purely by curiosity.  
+🌸 here you'll find a blend of my academic adventures (from equations to logic) and little personal tech projects crafted with care.  
 🌸 every repository is a small step, a new experiment, or a creative spark brought to life.
 
 ---
 
-### 🌷 what lives here?
+###  what lives here?
 
 * 🫧 **academic logs:** university notes, calculus experiments, and structured logic puzzles.
 * 🎀 **creative builds:** small web projects, aesthetic templates, and cozy digital tools.
@@ -20,7 +22,7 @@ _,.-° 🤍 welcome to cam's space 🤍 °-.,_
 
 ---
 
-
-
 _,.-° 🩵 ·.° ʚɞ °.· 🤍 °-.,_  
 *building my digital garden, one line of code at a time* 🌸
+
+</div>
