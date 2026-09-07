@@ -8,9 +8,9 @@ _,.-° 🤍 welcome to cam's space 🤍 °-.,_
 
 ### ·.° ʚ about me & this journey ɞ °.·
 
-🌸 **hello!** i'm documenting my path of learning new, beautiful things guided purely by curiosity.  
-🌸 here you'll find a blend of my academic adventures and little personal tech projects crafted with care.  
-🌸 every repository is a small step, a new experiment, or a creative spark brought to life.
+ **hello!** i'm documenting my path of learning new, beautiful things guided purely by curiosity.  
+ here you'll find a blend of my academic adventures and little personal tech projects crafted with care.  
+ every repository is a small step, a new experiment, or a creative spark brought to life.
 
 ---
 
@@ -23,6 +23,6 @@ _,.-° 🤍 welcome to cam's space 🤍 °-.,_
 ---
 
 _,.-° 🩵 ·.° ʚɞ °.· 🤍 °-.,_  
-*building my digital garden, one line of code at a time* 🌸
+*building my digital garden, one line of code at a time* 
 
 </div>
