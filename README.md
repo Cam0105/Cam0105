@@ -9,7 +9,7 @@ _,.-° 🤍 welcome to cam's space 🤍 °-.,_
 ### ·.° ʚ about me & this journey ɞ °.·
 
 🌸 **hello!** i'm documenting my path of learning new, beautiful things guided purely by curiosity.  
-🌸 here you'll find a blend of my academic adventures (from equations to logic) and little personal tech projects crafted with care.  
+🌸 here you'll find a blend of my academic adventures and little personal tech projects crafted with care.  
 🌸 every repository is a small step, a new experiment, or a creative spark brought to life.
 
 ---
